@@ -1,0 +1,14 @@
+{
+    "config": [
+        {
+            "description": "TTS, text-to-speech",
+            "continue": false,
+            "text": []
+        },
+        {
+            "description": "STT, speech-to-text",
+            "continue": false,
+            "text": []
+        }
+    ]
+}
